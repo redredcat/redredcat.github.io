@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReAppraisal</title>
-    <link>http://example.org/</link>
+    <link>https://redredcat.github.io/</link>
     <description>Recent content on ReAppraisal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 12:37:24 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://redredcat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>the first mail</title>
-      <link>http://example.org/post/myblog/</link>
+      <link>https://redredcat.github.io/post/myblog/</link>
       <pubDate>Sun, 26 Apr 2020 12:37:24 +0800</pubDate>
       
-      <guid>http://example.org/post/myblog/</guid>
+      <guid>https://redredcat.github.io/post/myblog/</guid>
       <description>I love u tcl.祝你每一天都开心快乐。</description>
     </item>
     
